@@ -1,5 +1,8 @@
 ### 产品介绍
 
+[ns4150](https://wenku.baidu.com/view/5fab0ee5f021dd36a32d7375a417866fb84ac0bb.html) D类音频放大器
+[TP4056](https://wenku.baidu.com/view/9d17373cb8f67c1cfbd6b8d5.html) 恒电压恒电流锂离子充电器
+
 * 采用低功耗双核32位CPU，可作应用处理器
 * 主频高达240MHz，运算能力高达 600 DMIPS
 * 内置 520 KB SRAM，8M PSRAM
@@ -15,22 +18,22 @@
 * 支持 Smart Config/AirKiss 一键配网
 
 #### 开发板
-![](开发板.jpg)
+![](./开发板.jpg)
 
 #### 产品规格
-![](产品规格.jpg)
+![](./产品规格.jpg)
 
 #### 高度继承 
-![](高度继承.jpg)
+![](./高度继承.jpg)
 
 #### 开发板参数
-![](开发板参数.jpg)
+![](./开发板参数.jpg)
 
 #### 开发板尺寸 
-![](开发板尺寸.jpg)
+![](./开发板尺寸.jpg)
 
 #### 开发板模块说明
-![](开发板模块说明.jpg)
+![](./开发板模块说明.jpg)
 
 #### 淘宝购买地址
 
@@ -114,7 +117,7 @@ ESP32-Audio-kit是Ai-Thinker基于ESP32-A1S模组开发的小型音频开发板,
 
 #### 原理图下载
 
-[原理图下载](esp32-audio-kit_v2.2_sch.pdf)
+[原理图下载](./esp32-audio-kit_v2.2_sch.pdf)
 
 #### 例子
 
@@ -161,6 +164,6 @@ ESP32-Audio-kit是Ai-Thinker基于ESP32-A1S模组开发的小型音频开发板,
 
 ##### 出厂固件
 
-* [出厂固件.zip](factroy_bin.zip)
+* [出厂固件.zip](./factroy_bin.zip)
 * [源站下载](http://wiki.ai-thinker.com/_media/esp32/boards/%E5%87%BA%E5%8E%82%E5%9B%BA%E4%BB%B6.zip)
 
